@@ -1,11 +1,35 @@
+## All Rounder
+
+- [OverApi](https://overapi.com/#more)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web)
+
+## HTML
+
+- [HTML cheetsheet](https://overapi.com/html)
+- [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+## CSS
+
+- [CSS cheetsheet](https://overapi.com/css)
+- [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 ## Javascript
 
 - [Video: Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains](https://www.youtube.com/watch?v=QyUFheng6J0&t=0s)
 - [Javascript info](https://javascript.info/)
+
 - [Video: V8 Engine Internals](https://youtu.be/m9cTaYI95Zc?si=rrqcOSXMbJWRQYhz)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - [Web optimization](https://web.dev/learn/performance)
+
+## React JS
+
+- [React cheetsheet devhints](https://devhints.io/react)
+- [React cheetsheet ](https://zerotomastery.io/cheatsheets/react-cheat-sheet/)
+
+## Node JS
+
+- [overApi - Node js](https://overapi.com/nodejs)
 
 ## Practice
 
